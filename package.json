@@ -10,18 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EwelinaManiecka/goit-node-hw-01.git"
+    "url": "git+https://github.com/Zuza29/goit-react-nodejs-hw-01.git"
   },
   "keywords": [
     "homework",
     "nodejs"
   ],
-  "author": "Ewelina Maniecka",
+  "author": "Zuza Kaźmierczak",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EwelinaManiecka/goit-node-hw-01/issues"
+    "url": "https://github.com/Zuza29/goit-react-nodejs-hw-01/issues"
   },
-  "homepage": "https://github.com/EwelinaManiecka/goit-node-hw-01#readme",
+  "homepage": "https://github.com/Zuza29/goit-react-nodejs-hw-01#readme",
   "dependencies": {
     "commander": "^10.0.0",
     "path": "^0.12.7"
